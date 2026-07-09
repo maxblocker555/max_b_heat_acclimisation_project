@@ -16,7 +16,7 @@ using Python, pandas and Dask across 38,988 workouts from 855 users.
   the comparison is largely within-subject rather than between two
   different populations.
 
-Full write-up: [MaxBlockley_DATA301_Project.pdf](report.pdf)
+Full write-up: [report.pdf](MaxBlockley_DATA301_Project.pdf)
 
 ## Method
 
